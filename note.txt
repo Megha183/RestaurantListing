@@ -1,0 +1,68 @@
+React
+------
+
+npx create-react-app appName - to create project
+npm start                    - to run project
+
+building blocks of react
+------------------------
+html
+css
+js                                                  
+
+  Angular                   |                   React
+ ----------                 |                ------------
+-framework of js            |                -library of js
+-*real DOM                  |                -*virtual DOM
+
+next js--a framework of react
+
+Advantages of React
+-------------------
+
+1-react uses virtual dom(so it will run faster)
+2-reusable components 
+3-jsx (javascript xml) 
+
+Components in React 
+-----------------------
+1-class based     - Stateful components
+2-function based  - Stateless components
+
+-react hooks 
+
+State
+-----
+it is an object used to store data inside a component in react
+
+useState - react 
+
+props 
+-----
+to share datas from parent to child components 
+
+destructuring
+
+API call in javascript
+-----------------------
+
+AJAX
+-----
+1.fetch
+2.xmlhttp
+3.asyc await
+
+first working hook of a component-useEffect hook  -react
+
+Redirection/Routing In React
+----------------------------
+
+react-router-dom  - library used for Routing
+
+1.Browser Router  - wrap the main component inside browser router component.
+2.Route           - wrap the component inside Router which need redirection.
+3.Routes          - wrap all the Router if we set more than one component paths.... 
+
+Link - a component in react-router-dom used for redirection
+
+useParams  - hook in react-router-dom used to access params
